@@ -1,6 +1,6 @@
 ## Hey there! I'm Miguel Remédios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://github.com/RafaBallerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelremedios&show_icons=true&theme=dracula&count_private=true" alt="miguelremedios" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelremedios&show_icons=true&theme=dracula&count_private=true&icon_color=#901010" alt="miguelremedios" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelremedios&layout=compact&theme=dracula" alt="miguelremediosplanguages" />
 
 <div>
