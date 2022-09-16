@@ -1,6 +1,6 @@
 ## Hey there! I'm Miguel Remédios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://github.com/MiguelRemedios">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelremedios&show_icons=true&theme=ayu-mirage&count_private=true&icon_color=E54949&custom_title=GitHub Statistics&title_color=E54949" alt="miguelremedios" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelremedios&show_icons=true&theme=ayu-mirage&count_private=true&icon_color=E54949&custom_title=GitHub Statistics&title_color=E54949" alt="miguelremediosstats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelremedios&layout=compact&theme=ayu-mirage&title_color=E54949" alt="miguelremediosplanguages" />
 
 <div>
