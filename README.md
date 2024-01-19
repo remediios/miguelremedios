@@ -1,10 +1,10 @@
 ## Hey there! I'm Miguel Remédios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://github.com/MiguelRemedios">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=miguelremedios&show_icons=true&theme=moltack&rank_icon=github" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=remediios&show_icons=true&theme=moltack&rank_icon=github" />
 </a>
 <a href="https://github.com/MiguelRemedios">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelremedios&layout=compact&theme=moltack&hide=cython,html" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remediios&layout=compact&theme=moltack&hide=cython,html" />
 </a>
 
 <div>
