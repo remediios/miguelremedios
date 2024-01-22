@@ -21,9 +21,9 @@
   <img align="center" alt="Miguel-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Miguel-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Miguel-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Miguel-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Miguel-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="Miguel-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  
-
 </div>
   
   ##
