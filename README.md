@@ -4,7 +4,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=remediios&show_icons=true&theme=moltack&rank_icon=github" />
 </a>
 <a href="https://github.com/MiguelRemedios">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remediios&layout=compact&theme=moltack&hide=html,scss,jupyter%20notebook" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remediios&layout=compact&theme=moltack&hide=scss,jupyter%20notebook" />
 </a>
 
 <div>
