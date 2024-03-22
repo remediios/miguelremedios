@@ -1,6 +1,6 @@
 ## Hey there! I'm Miguel Remédios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Who am I?
+### Who am I? 
 
 I specialise in machine learning and fullstack development , handling every aspect from client to server architecture including RESTful APIs implementation to crafting user interfaces.
 
@@ -10,7 +10,7 @@ My commitment to excellence has honed my ability to maintain meticulous attentio
 
 ##
 
-### GitHub Statistics and Technologies
+### GitHub Statistics and Technologies 👨🏽‍💻
 <a href="https://github.com/MiguelRemedios">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=remediios&show_icons=true&theme=moltack&rank_icon=github" />
 </a>
