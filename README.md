@@ -4,7 +4,7 @@
 
 I specialise in machine learning and fullstack development , handling every aspect from client to server architecture including RESTful APIs implementation to crafting user interfaces.
 
-With professional experience, my skillset encompasses a wide range of technologies and languages, including TypeScript, JavaScript, Python, Java, HTML/CSS3, NodeJS, Spring, ReactJS, NextJS, various Object-Relational Mapping Systems (ORMs) like Sequelise, Prisma, Drizzle, and expertise in building RESTful web services with ExpressJS, Fastify and Flask.
+With professional experience, my skillset encompasses a wide range of technologies and languages, including TypeScript, JavaScript, Python, Java, HTML/CSS3, NodeJS, Spring, ReactJS, NextJS, various Object-Relational Mapping Systems (ORMs) like Sequelise, Prisma, Drizzle, and expertise in building RESTful web services with ExpressJS, Fastify, Flask and Spring Boot.
 
 My commitment to excellence has honed my ability to maintain meticulous attention to detail and adhere to best practices from design patterns to clean code development.
 
