@@ -2,7 +2,7 @@
 
 ### Who am I? 
 
-I specialise in machine learning and fullstack development , handling every aspect from client to server architecture including RESTful APIs implementation to crafting user interfaces.
+I specialise in machine learning and fullstack development, handling every aspect from client to server architecture including RESTful APIs implementation, crafting user interfaces to cloud/server deployment.
 
 With professional experience, my skillset encompasses a wide range of technologies and languages, including TypeScript, JavaScript, Python, Java, HTML/CSS3, NodeJS, Spring, ReactJS, NextJS, various Object-Relational Mapping Systems (ORMs) like Sequelise, Prisma, Drizzle, and expertise in building RESTful web services with ExpressJS, Fastify, Flask and Spring Boot.
 
